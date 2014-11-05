@@ -1,0 +1,22 @@
+
+/* 
+    Created on : 20 oct. 2014, 14:19:04
+    Author     : Maxime
+*/
+
+.formulaire {
+    display: inline-block;
+    vertical-align: top;
+}
+
+label {
+    color: green;
+    display: inline-block;
+    width: 600px;
+    margin-right: 50px;
+}
+
+.spaninstrument {
+    width: 80px;    
+    display: inline-block;
+}
